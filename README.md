@@ -12,7 +12,7 @@ Disponibilizar um guia educativo gratuito com orientações introdutórias sobre
 Pessoas com pouco conhecimento de informática, estudantes, adultos em busca de oportunidades profissionais e membros da comunidade.
 
 ## Material
-- `Guia_Conecta_Digital.pdf`: guia educativo para compartilhamento gratuito.
+- [Baixar o Guia Conecta Digital (PDF)](Guia_Conecta_Digital.pdf)
 
 ## Ferramentas
 - PDF para distribuição do conteúdo.
@@ -25,6 +25,9 @@ Baixe o PDF e compartilhe com pessoas que possam se beneficiar das orientações
 
 ## Impacto esperado
 Contribuir para a autonomia digital e incentivar o uso mais seguro e consciente da internet. O impacto real deverá ser avaliado por feedback dos leitores e, se houver, por atividades realizadas.
+
+## Divulgação
+- [Publicação do projeto no LinkedIn](https://lnkd.in/p/dZrkgHDQ)
 
 ## Responsável
 Felipe Matias dos Santos
